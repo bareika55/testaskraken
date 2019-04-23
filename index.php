@@ -8,6 +8,6 @@
     <title>Puslapio pavvadinimas</title>
 </head>
 <body>
-    hahaha
+
 </body>
 </html>
